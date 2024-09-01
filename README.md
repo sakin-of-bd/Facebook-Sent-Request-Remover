@@ -16,6 +16,7 @@ Now, I am telling you the full process about it.
 9. Here you can face a problem which is writing the .txt files code again and again which is disgusting. I have solutions for this also. Just simply put your cursor on the console sections page and enter the UP button on your Keyboard.
 
 ![images](https://github.com/user-attachments/assets/5e3c8b63-81d5-4119-84c9-cc53072642fe)
+
 10. It will return back your written codes. Easy-peasy 🤓
 
 Now, Enjoy your life 😎.
